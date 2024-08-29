@@ -1,1 +1,1 @@
-# tizFiz.guthub.io
+# tizFiz.github.io
